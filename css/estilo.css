@@ -1,0 +1,32 @@
+h1 {
+  color: white; }
+
+p {
+  color: white; }
+
+#home {
+  color: white;
+  background-color: #28a745; }
+
+.caixa {
+  padding: 60px 0;
+  border-bottom: 1px solid white;
+  background-color: white; }
+
+.caixa p {
+  color: black; }
+
+.caixa2 {
+  padding: 60px 0;
+  border-bottom: 1px solid white;
+  background-color: #28a745; }
+
+footer p a {
+  margin: 5px 15px;
+  color: black; }
+
+footer p a:hover {
+  text-decoration: none;
+  color: #28a745; }
+
+/*# sourceMappingURL=estilo.css.map */

@@ -1,0 +1,44 @@
+//Configurando
+$color: white;
+$color2: black;
+$bg: #28a745;
+$bg-footer: #6E8B3D;
+
+h1 {
+	color: $color;
+}
+
+p {
+	color: $color;
+}
+
+#home {
+	color: $color;
+	background-color: $bg;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid white;
+	background-color: $color;
+}
+
+.caixa p {
+	color: $color2;
+}
+
+.caixa2 {
+	padding: 60px 0;
+	border-bottom: 1px solid white;
+	background-color: $bg;
+}
+
+footer p a {
+	margin: 5px 15px;
+	color: $color2;
+}
+
+footer p a:hover {
+	text-decoration: none;
+	color: $bg;
+}
